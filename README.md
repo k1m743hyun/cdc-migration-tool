@@ -1,1 +1,1 @@
-# db-realtime-sync-tool
+# cdc-migration-tool
